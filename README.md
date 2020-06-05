@@ -8,3 +8,7 @@
 ## Red Tornado
 
 ![Site com simbolo do Tornado Vermelho em Css](https://imgur.com/JG1h9DW.png)
+
+## Black Widow
+
+![Site com simbolo da Viúva Negra](https://imgur.com/5wRTRdE.png)
